@@ -1,1 +1,1 @@
-# project-ML--Titanic_Survival_Prediction
+# ML-Project-Titanic_Survival_Prediction
